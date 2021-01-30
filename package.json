@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JLazarte/provider-demo/issues"
   },
-  "homepage": "https://github.com/JLazarte/provider-demo#readme"
+  "homepage": "https://github.com/JLazarte/provider-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
